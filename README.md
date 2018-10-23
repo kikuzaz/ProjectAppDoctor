@@ -1,5 +1,5 @@
 # ProjectApplicationSE
-61CED4RA_ระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟนแอนดรอย
+61CED4RA_ระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟน iOS&Android
 
 # Details เครื่องมือที่ใช้ในการพัฒนา <br/>
    1. IONIC Framwork 3 (For Created Application) 
