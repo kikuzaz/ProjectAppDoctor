@@ -14,7 +14,8 @@
 
 # My Teams ทีมผู้พัฒนา</b>
    1. Mr.Thamrongkool Suphong (Leader)<br/>
-[url=https://postimg.cc/qNVKmcwv][img]https://i.postimg.cc/qNVKmcwv/39931060-893064614414858-7683456846253785088-n.jpg[/img][/url]
+[![39978161-233849850811051-6898947289721602048-n.jpg](https://i.postimg.cc/sXCPKzH4/39978161-233849850811051-6898947289721602048-n.jpg)](https://postimg.cc/jWvJdpbD)<br/>
+
    2. Mrs.Niphaphorn Kaeoklat (Leader)<br/>
 [url=https://postimg.cc/TKVDByNq][img]https://i.postimg.cc/TKVDByNq/39945317-1908254805901593-5406518644819623936-n.jpg[/img][/url]
    3. Mrs.Orathai Ruengsawang (Leader)<br/>
