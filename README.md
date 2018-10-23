@@ -6,4 +6,4 @@
    1.1 IONIC Framwork 3</b>  
              <center>[![ionic3.jpg](https://i.postimg.cc/rsfBGDpb/ionic3.jpg)](https://postimg.cc/zHR28XKS)</center></b>                
    1.2 IONIC DevApp</b>  
-<center>[![application-banner-1.png](https://i.postimg.cc/g21nqJXn/application-banner-1.png)](https://postimg.cc/Xrcjnngb)</center></b>  
+[![application-banner-1.png](https://i.postimg.cc/g21nqJXn/application-banner-1.png)](https://postimg.cc/Xrcjnngb)</b>  
