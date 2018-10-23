@@ -13,8 +13,8 @@
    My Link : https://trello.com/b/dTkVFyRq/61ced4raระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟนแอนดรอย<br/>
 
 # My Teams ทีมผู้พัฒนา</b>
-   >1. Mr.Thamrongkool Suphong (Leader)<br/>
-    2. Mrs.Niphaphorn Kaeoklat (Leader)<br/>
-    3. Mrs.Orathai Ruengsawang (Leader)<br/>
-    4. Mrs.Sirilak Intarayong (Leader)<br/>
-    5. Mrs.Sasitorn Nuandee (Leader)<br/>
+   1. Mr.Thamrongkool Suphong (Leader)<br/>
+   2. Mrs.Niphaphorn Kaeoklat (Leader)<br/>
+   3. Mrs.Orathai Ruengsawang (Leader)<br/>
+   4. Mrs.Sirilak Intarayong (Leader)<br/>
+   5. Mrs.Sasitorn Nuandee (Leader)<br/>
