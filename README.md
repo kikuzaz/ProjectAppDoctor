@@ -9,5 +9,12 @@
    3. Draw.io (For Creative Design)</b> 
    [![draw-io.png](https://i.postimg.cc/R0Pcwf5K/draw-io.png)](https://postimg.cc/2qZbD15S)</b>
    4. Trello (For Manage the work and Collaborative)</b> 
-   [![trello.png](https://i.postimg.cc/76YKkwDM/trello.png)](https://postimg.cc/Ff8ybtY7)
+   [![trello.png](https://i.postimg.cc/76YKkwDM/trello.png)](https://postimg.cc/Ff8ybtY7)</b>
    My Link : https://trello.com/b/dTkVFyRq/61ced4raระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟนแอนดรอย
+
+# My Teams ทีมผู้พัฒนา</b>
+   1. Mr.Thamrongkool Suphong (Leader)
+    2. Mrs.Niphaphorn Kaeoklat (Leader)
+      3. Mrs.Orathai Ruengsawang (Leader)
+       4. Mrs.Sirilak Intarayong (Leader)
+        5. Mrs.Sasitorn Nuandee (Leader)
