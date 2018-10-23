@@ -10,7 +10,7 @@
    [![draw-io-alternativa-visio-gratis1.jpg](https://i.postimg.cc/VvMRm6ST/draw-io-alternativa-visio-gratis1.jpg)](https://postimg.cc/CnhD4wsH)<br/>
    4. Trello (For Manage the work and Collaborative)<br/>
    [![trello.png](https://i.postimg.cc/76YKkwDM/trello.png)](https://postimg.cc/Ff8ybtY7)<br/>
-   My Link : https://trello.com/b/dTkVFyRq/61ced4raระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟนแอนดรอย<br/>
+   My Link : https://trello.com/b/dTkVFyRq/61ced4raระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟน-iosandroid<br/>
 
 # My Teams ทีมผู้พัฒนา</b>
    1. Mr.Thamrongkool Suphong (Leader)<br/>
