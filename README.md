@@ -4,9 +4,6 @@
 Details
 ##1. เครื่องมือที่ใช้ในการพัฒนา
     1.1 IONIC Framwork 3
-                  [![ionic3.jpg](https://i.postimg.cc/rsfBGDpb/ionic3.jpg)](https://postimg.cc/zHR28XKS)
-                  
-                  
-                  
+                  [![ionic3.jpg](https://i.postimg.cc/rsfBGDpb/ionic3.jpg)](https://postimg.cc/zHR28XKS)</b>     
     1.2 IONIC DevApp
-     [![application-banner-1.png](https://i.postimg.cc/g21nqJXn/application-banner-1.png)](https://postimg.cc/Xrcjnngb)
+   [![application-banner-1.png](https://i.postimg.cc/g21nqJXn/application-banner-1.png)](https://postimg.cc/Xrcjnngb)
