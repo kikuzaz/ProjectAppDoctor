@@ -1,5 +1,4 @@
 # ProjectApplicationSE
 61CED4RA_ระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟนแอนดรอย
 
-
-<img src="C:\Users\thamr\OneDrive\Desktop"></img>
+[![ionic3.jpg](https://i.postimg.cc/rsfBGDpb/ionic3.jpg)](https://postimg.cc/zHR28XKS)
