@@ -2,7 +2,7 @@
 61CED4RA_ระบบให้คําปรึกษาอาการป่วยเบื้องต้นจากแอพลิเคชั่นบนสมาร์ทโฟน iOS&Android
 
 # Details เครื่องมือที่ใช้ในการพัฒนา <br/>
-   1. IONIC Framwork 3 (For Created Application) 
+   1. IONIC Framework 3 (For Created Application) 
    [![ionic3.jpg](https://i.postimg.cc/rsfBGDpb/ionic3.jpg)](https://postimg.cc/zHR28XKS)</center><br/>               
    2. IONIC DevApp (For Tested & Simulated Application)<br/>
    [![application-banner-1.png](https://i.postimg.cc/g21nqJXn/application-banner-1.png)](https://postimg.cc/Xrcjnngb)<br/> 
