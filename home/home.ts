@@ -6,6 +6,7 @@ import { SelectBodyPage } from '../select-body/select-body';
 import { SelectBottomPage } from '../select-bottom/select-bottom';
 import { SelectGeneralPage } from '../select-general/select-general';
 
+
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'

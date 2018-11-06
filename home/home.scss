@@ -1,5 +1,12 @@
 page-home {
 
+    ion-title *{
+        margin-top: 30vh;
+        margin-bottom:  50vh;
+    }
+}
+
+
     .background{
         background-image: url('../assets/imgs/BG.jpg');
     }
