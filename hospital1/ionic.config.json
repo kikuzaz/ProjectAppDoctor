@@ -1,0 +1,7 @@
+{
+  "name": "DePlace",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

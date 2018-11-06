@@ -1,0 +1,18 @@
+
+<ion-header>
+
+  <ion-navbar color="main-color">
+    <ion-title text-wrap>นำทางไป สู่ {{destination_name}}, <br/> <small>ระยะทาง {{distance}}เมตร จากตำแหน่งปัจจุบัน</small></ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content >
+
+   
+        <div class="direction-card" #directionsPanel></div>
+        <div #map id="map"></div> 
+    
+   
+</ion-content>
