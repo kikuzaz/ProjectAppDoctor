@@ -1,0 +1,56 @@
+page-login {
+    .tx{
+        color: #fff;
+        font-size: 18px;
+        font-family: 'Athiti';
+        font-weight: bold;
+    }
+
+    .background{
+        background-color: dodgerblue;
+    }
+
+    .scroll-content{
+        align-content: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    ion-card.card{
+        box-shadow: none;
+        background: rgba(0, 0, 0, 0.5);
+        border-radius: 10px;
+        width: 80%;
+        margin: auto;
+    }
+
+    ion-card-header.card-header{
+        color: #fff;
+        font-size: 40px;
+        font-family: 'Athiti';
+        font-weight: bold;
+    }
+
+    .item{
+        margin-bottom: 10px;
+        background: rgba(255, 255, 255, 0.5);
+        border: medium none;
+
+        .text-input,{
+            color: #000;
+            font-family: 'Athiti';
+            font-size: 16px;
+        }
+        
+        .label,{
+            color: #000;
+            font-family: 'Athiti';
+            font-size: 16px;
+            font-weight: bold; 
+        }
+    }
+}
+
+    
