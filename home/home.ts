@@ -1,10 +1,9 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
-import { SelectHeadPage } from '../select-head/select-head';
-import { SelectBodyPage } from '../select-body/select-body';
-import { SelectBottomPage } from '../select-bottom/select-bottom';
-import { SelectGeneralPage } from '../select-general/select-general';
+import { SymptomPage } from '../symptom/symptom';
+import { EmergencyPage } from '../emergency/emergency';
+import { AboutPage } from '../about/about';
 
 @Component({
   selector: 'page-home',
@@ -13,23 +12,17 @@ import { SelectGeneralPage } from '../select-general/select-general';
 export class HomePage {
 
   constructor(public navCtrl: NavController) {
-
   }
   
-  GotoSelectHeadPage(){
-    this.navCtrl.push(SelectHeadPage);
+  GotoMenu1(){
+    this.navCtrl.push(SymptomPage);
   }
 
-  GotoSelectBodyPage(){
-    this.navCtrl.push(SelectBodyPage);
+  GotoMenu2(){
+    this.navCtrl.push(EmergencyPage);
   }
 
-  GotoSelectBottomPage(){
-    this.navCtrl.push(SelectBottomPage);
+  GotoMenu3(){
+    this.navCtrl.push(AboutPage);
   }
-
-  GotoSelectGeneralPage(){
-    this.navCtrl.push(SelectGeneralPage);
-  }
-
 }
