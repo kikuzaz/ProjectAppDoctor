@@ -1,0 +1,24 @@
+page-symptom {
+    .background{
+        background-image: url('../assets/imgs/BG.jpg');
+    }
+    
+    //จัดรูปแบบ content ทั้งหมด
+    .scroll-content{
+        align-content: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+    
+
+    //จัดส่วนหัวข้อ
+    ion-card-header.card-header{
+        color: #003d4d;
+        font-size: 40px;
+        font-family: 'Athiti';
+        font-weight: bold;
+        text-align: left;
+    }
+}
